@@ -21,24 +21,6 @@ body {
     padding: 1em;
   }
 
-  nav {
-    background-color: #000000;
-    margin-top: 6px;
-    border-radius: 30px;
-  }
-
-  nav ul {
-    display: flex;
-    flex-direction: row;
-    margin: 0;
-    padding: 0;
-  }
-
-  nav li {
-    list-style: none;
-    padding: 45px;
-  }
-
   h1 {
     color: #000000;
     font-family: 'Rubik', sans-serif;
